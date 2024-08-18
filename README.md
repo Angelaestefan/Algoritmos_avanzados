@@ -8,7 +8,9 @@ This repository tracks my school projects related to advanced algorithms, featur
   - Description: Merge Sort Implementation
   - Technologies: c++
  
-
+- **Project 2: Hash Table**
+  - Description: Hash table implementation with a load factor of 0.80 with CRUD methods.
+  - Technologies: c++
 
 ...
 
