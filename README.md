@@ -12,6 +12,9 @@ This repository tracks my school projects related to advanced algorithms, featur
   - Description: Hash table implementation with a load factor of 0.80 with CRUD methods.
   - Technologies: c++
 
+- **Project 3: Graphs**
+  - Description: Implemented a Graph with BFS search algorithm.
+  - Technologies: c++
 ...
 
 ## How to Run
